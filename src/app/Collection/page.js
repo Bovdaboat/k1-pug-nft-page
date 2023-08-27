@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Collection = () => {
     return(
-        <div className="bg-base-200 pt-10" >
+        <div id="Collection" className="bg-base-200 pt-10" >
             <div className="flex justify-center text-primary font-mono text-3xl">
                 Collection
             </div>

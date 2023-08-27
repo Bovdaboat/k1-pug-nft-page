@@ -76,9 +76,9 @@ const Landing = () => {
                         <div className="flex-none hidden lg:block">
                             <ul className="menu menu-horizontal">
                                 {/* Page menu content here */}
-                                <li><Link href="/Collection#Collection"  className="font-mono">Collection</Link></li>
-                                <li><Link href="/Other#Other" className="font-mono">Other</Link></li>
-                                <li><Link href="/Contact#Contact" className="font-mono">Contact</Link></li>
+                                <li><Link href="#Collection"  className="font-mono">Collection</Link></li>
+                                <li><Link href="#Other" className="font-mono">Other</Link></li>
+                                <li><Link href="#Contact" className="font-mono">Contact</Link></li>
                             </ul>
                         </div>
                     </div>
@@ -113,9 +113,9 @@ const Landing = () => {
                     <label htmlFor="my-drawer-3" className="drawer-overlay"></label>
                     <ul className="menu p-4 w-80 h-full bg-base-200">
                         {/* Sidebar content here */}
-                        <li><Link href="/Collection"  className="font-mono p-2 text-primary">Collection</Link></li>
-                        <li><Link href="/Other" className="font-mono p-2 text-primary">Other</Link></li>
-                        <li><Link href="/Contact" className="font-mono p-2 text-primary">Contact</Link></li>
+                        <li><Link href="#Collection"  className="font-mono p-2 text-primary">Collection</Link></li>
+                        <li><Link href="#Other" className="font-mono p-2 text-primary">Other</Link></li>
+                        <li><Link href="#Contact" className="font-mono p-2 text-primary">Contact</Link></li>
 
                     </ul>
 

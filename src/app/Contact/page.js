@@ -19,7 +19,7 @@ const Contact = () => {
         }
     }
     return (
-        <div className="bg-base-100 text-primary text-3xl font-mono p-6">
+        <div id="Contact" className="bg-base-100 text-primary text-3xl font-mono p-6">
             <div className="flex justify-center p-6">
                 Contact Me 💬
             </div>

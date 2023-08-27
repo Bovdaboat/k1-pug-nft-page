@@ -21,7 +21,7 @@ export default function Home() {
             <div>
                 <Contact />
             </div>
-            <div>
+            <div className="py-1">
                 <Footer />
             </div>
         </div>

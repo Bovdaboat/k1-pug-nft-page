@@ -28,7 +28,6 @@ const Landing = () => {
     useEffect(() => {
         localStorage.setItem("theme", theme);
         const localTheme = localStorage.getItem("theme");
-        // add custom data-theme attribute to html tag required to update theme using DaisyUI
         document.querySelector("html").setAttribute("data-theme", localTheme);
     }, [theme]);
 

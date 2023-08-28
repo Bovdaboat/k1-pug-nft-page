@@ -76,7 +76,6 @@ const Landing = () => {
                             <ul className="menu menu-horizontal">
                                 {/* Page menu content here */}
                                 <li><Link href="#Collection"  className="font-mono">Collection</Link></li>
-                                <li><Link href="#Explore" className="font-mono">Explore</Link></li>
                                 <li><Link href="#Contact" className="font-mono">Contact</Link></li>
                             </ul>
                         </div>
@@ -99,9 +98,8 @@ const Landing = () => {
                                         opportunity!
                                         Click the "Contact" button to get started and bring your beloved pets to life
                                         in the world of NFTs.
-                                        just writting text to see if this gets uptdated
                                     </p>
-                                    <Link href="/Contact" className=" bg-green-700 btn text-white hover:bg-green-600 ">
+                                    <Link href="#Contact" className=" bg-green-700 btn text-white hover:bg-green-600 ">
                                         Contact Me</Link>
                                 </div>
                             </div>
@@ -113,7 +111,6 @@ const Landing = () => {
                     <ul className="menu p-4 w-80 h-full bg-base-200">
                         {/* Sidebar content here */}
                         <li><Link href="#Collection"  className="font-mono p-2 text-primary">Collection</Link></li>
-                        <li><Link href="#Explore" className="font-mono p-2 text-primary">Explore</Link></li>
                         <li><Link href="#Contact" className="font-mono p-2 text-primary">Contact</Link></li>
 
                     </ul>

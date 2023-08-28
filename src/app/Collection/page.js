@@ -24,7 +24,7 @@ const Collection = () => {
                             <p>Double Trouble</p>
                             <div className="card-actions">
                                 <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/26405824261209659740145955979751774100946936953648117878439270390578091655169"
-                                   className=" bg-green-700 btn text-white hover:bg-green-600 ">Buy Now</a>
+                                   className=" bg-green-700 btn text-white hover:bg-green-600 ">Open Sea</a>
                             </div>
                         </div>
                     </div>
@@ -41,7 +41,7 @@ const Collection = () => {
                             <h2 className="card-title">NFT #2</h2>
                             <p>Birthday Girl</p>
                             <div className="card-actions">
-                                <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/26405824261209659740145955979751774100946936953648117878439270391677603282945" className=" bg-green-700 btn text-white hover:bg-green-600 ">Buy Now</a>
+                                <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/26405824261209659740145955979751774100946936953648117878439270391677603282945" className=" bg-green-700 btn text-white hover:bg-green-600 ">Open Sea</a>
                             </div>
                         </div>
                     </div>
@@ -58,7 +58,7 @@ const Collection = () => {
                             <h2 className="card-title">NFT #3</h2>
                             <p>Water Station</p>
                             <div className="card-actions">
-                                <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/26405824261209659740145955979751774100946936953648117878439270392777114910721" className=" bg-green-700 btn text-white hover:bg-green-600 ">Buy Now</a>
+                                <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/26405824261209659740145955979751774100946936953648117878439270392777114910721" className=" bg-green-700 btn text-white hover:bg-green-600 ">Open Sea</a>
                             </div>
                         </div>
                     </div>
@@ -75,7 +75,7 @@ const Collection = () => {
                             <h2 className="card-title">NFT #4</h2>
                             <p>Echo Park</p>
                             <div className="card-actions">
-                                <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/26405824261209659740145955979751774100946936953648117878439270393876626538497" className=" bg-green-700 btn text-white hover:bg-green-600 ">Buy Now</a>
+                                <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/26405824261209659740145955979751774100946936953648117878439270393876626538497" className=" bg-green-700 btn text-white hover:bg-green-600 ">Open Sea</a>
                             </div>
                         </div>
                     </div>

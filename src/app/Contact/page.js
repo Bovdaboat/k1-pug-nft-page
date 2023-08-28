@@ -18,9 +18,13 @@ const Contact = () => {
             e.preventDefault();
         }
     }
+
+
+
     return (
-        <div id="Contact" className="bg-base-100 text-primary text-3xl font-mono p-6">
-            <div className="flex justify-center p-6">
+        <div id="Contact" className="bg-cover bg-center bg-no-repeat h-screen text-primary text-3xl font-mono p-6"
+             style={{ backgroundImage: "url('Photos/wallpaper.jpg')" }}>
+            <div className="flex justify-center p-6 text-white">
                 Contact Me 💬
             </div>
             <form

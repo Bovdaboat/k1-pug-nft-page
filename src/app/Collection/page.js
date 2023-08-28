@@ -3,7 +3,8 @@ import Image from "next/image";
 
 const Collection = () => {
     return(
-        <div id="Collection" className="bg-base-200 pt-10" >
+        <div >
+        <div id="Collection" className="bg-base-200 pt-10">
             <div className="flex justify-center text-primary font-mono text-3xl">
                 Collection
             </div>
@@ -81,6 +82,7 @@ const Collection = () => {
                 </div>
             </div>
         </div>
+</div>
 
     )
 }

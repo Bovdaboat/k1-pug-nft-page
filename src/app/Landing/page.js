@@ -36,7 +36,6 @@ const Landing = () => {
             <div className="drawer">
                 <input id="my-drawer-3" type="checkbox" className="drawer-toggle" />
                 <div className="drawer-content flex flex-col">
-                    {/* Page */}
                     <div className="w-full navbar bg-green-800">
                         <div className="flex-none lg:hidden">
                             <label htmlFor="my-drawer-3" className="btn btn-square btn-ghost">
@@ -48,7 +47,6 @@ const Landing = () => {
                         <div>
                             <label className="swap swap-rotate m-3">
 
-                                {/* this hidden checkbox controls the state */}
                                 <input type="checkbox"
                                        onChange={handleToggle}
                                        checked={theme === "light" ? false : true}
@@ -89,14 +87,14 @@ const Landing = () => {
                                        alt={"Image of Stella and Tsunami"}
                                        height={400}/>
                                 <div>
-                                    <h1 className="text-5xl font-bold text-primary">Hi Freinds!</h1>
+                                    <h1 className="text-5xl font-bold text-primary">Hi Friends!</h1>
                                     <p className="py-6 text-primary">Introducing my beautiful Pugs, Stella and Tsunami,
                                         who will now live
                                         forever on the blockchain as NFTs. This remarkable feature is one of the many
                                         benefits that
                                         blockchain technology offers. And now, you too can experience this incredible
                                         opportunity!
-                                        Click the "Contact" button to get started and bring your beloved pets to life
+                                        Click the Contact button to get started and bring your beloved pets to life
                                         in the world of NFTs.
                                     </p>
                                     <Link href="#Contact" className=" bg-green-700 btn text-white hover:bg-green-600 ">

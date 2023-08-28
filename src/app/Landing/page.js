@@ -89,6 +89,14 @@ const Landing = () => {
                                 <div>
                                     <h1 className="text-5xl font-bold text-primary">Hi Friends!</h1>
                                     <p className="py-6 text-primary">
+                                        Introducing my beautiful Pugs, Stella and Tsunami,
+                                        who will now live
+                                        forever on the blockchain as NFTs. This remarkable feature is one of the many
+                                        benefits that
+                                        blockchain technology offers. And now, you too can experience this incredible
+                                        opportunity!
+                                        Click the Contact button to get started and bring your beloved pets to life
+                                        in the world of NFTs.
                                     </p>
                                     <Link href="#Contact" className=" bg-green-700 btn text-white hover:bg-green-600 ">
                                         Contact Me</Link>

@@ -76,7 +76,7 @@ const Landing = () => {
                             <ul className="menu menu-horizontal">
                                 {/* Page menu content here */}
                                 <li><Link href="#Collection"  className="font-mono">Collection</Link></li>
-                                <li><Link href="#Other" className="font-mono">Other</Link></li>
+                                <li><Link href="#Explore" className="font-mono">Explore</Link></li>
                                 <li><Link href="#Contact" className="font-mono">Contact</Link></li>
                             </ul>
                         </div>
@@ -113,7 +113,7 @@ const Landing = () => {
                     <ul className="menu p-4 w-80 h-full bg-base-200">
                         {/* Sidebar content here */}
                         <li><Link href="#Collection"  className="font-mono p-2 text-primary">Collection</Link></li>
-                        <li><Link href="#Other" className="font-mono p-2 text-primary">Other</Link></li>
+                        <li><Link href="#Explore" className="font-mono p-2 text-primary">Explore</Link></li>
                         <li><Link href="#Contact" className="font-mono p-2 text-primary">Contact</Link></li>
 
                     </ul>

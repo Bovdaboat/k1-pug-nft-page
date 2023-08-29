@@ -28,8 +28,8 @@ const Contact = () => {
                 Contact Me 💬
             </div>
             <div className="font-mono text-xl m-3 text-white">
-                Enjoy exploring Stella and Tsunami world. To turn your pets into NFTs, reach out via the form.
-                Your pet's legacy awaits!
+                Enjoy exploring Stella and Tsunami&apos;s world. To turn your pets into NFTs,
+                reach out via the form. Your pet&apos;s legacy awaits!
             </div>
             <form
                 target="_blank"

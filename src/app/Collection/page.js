@@ -9,7 +9,7 @@ const Collection = () => {
                 Collection
             </div>
             <p className="text-primary p-7 mt-7">
-                Stella and TsuNami's NFTs have been showcased on the renowned NFT trading platform,
+                Stella and TsuNami&apos;s NFTs have been showcased on the renowned NFT trading platform,
                 OpenSea.
                 Simply click the <span className="text-green-500 font-semibold">OpenSea</span> button to embark on a journey through their NFT existence and trading activities.
             </p>

@@ -27,7 +27,7 @@ const Contact = () => {
             <div className="flex justify-center p-6 text-white">
                 Contact Me 💬
             </div>
-            <div className="font-mono text-xl m-3">
+            <div className="font-mono text-xl m-3 text-white">
                 Enjoy exploring Stella and Tsunami world. To turn your pets into NFTs, reach out via the form.
                 Your pet's legacy awaits!
             </div>

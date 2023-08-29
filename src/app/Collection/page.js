@@ -8,11 +8,12 @@ const Collection = () => {
             <div className="flex justify-center text-primary font-mono text-3xl">
                 Collection
             </div>
-            <div className="flex justify-center text-primary font-mono pt-3 m-9">
-                Stella and TsuNami's NFTs have been showcased on the renowned NFT trading platform, OpenSea.
-                Simply click the "OpenSea" button to embark on a journey through their NFT existence and
-                trading activities.
-            </div>
+            <p className="text-primary p-7 mt-7">
+                Stella and TsuNami's NFTs have been showcased on the renowned NFT trading platform,
+                OpenSea.
+                Simply click the <span className="text-green-500 font-semibold">OpenSea</span> button to embark on a journey through their NFT existence and trading activities.
+            </p>
+
             <div className="flex justify-center items-center">
                 <div className="bg-base-400 grid lg:grid-cols-2 md:grid-cols-1 grid-rows-2 gap-10 mt-10 p-6 ">
                     <div className="card w-96 bg-green-900 shadow-xl flex-col">

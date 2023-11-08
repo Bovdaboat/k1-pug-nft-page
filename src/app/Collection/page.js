@@ -27,7 +27,7 @@ const Collection = () => {
                         </div>
                         <div className="card-body items-center text-center">
                             <h2 className="card-title">NFT #1</h2>
-                            <p>Double Trouble</p>
+                            <p>Double Trouble </p>
                             <div className="card-actions">
                                 <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/26405824261209659740145955979751774100946936953648117878439270390578091655169"
                                    className=" bg-green-700 btn text-white hover:bg-green-600 ">Open Sea</a>

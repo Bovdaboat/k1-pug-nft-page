@@ -16,15 +16,15 @@ const Collection = () => {
 
             <div className="flex justify-center items-center">
                 <div className="bg-base-400 grid lg:grid-cols-2 md:grid-cols-1 grid-rows-2 gap-10 mt-10 p-6 ">
-                    <div className="card w-96 bg-green-900 shadow-xl flex-col">
-                        <figure className="px-10 pt-10">
+                    <div className="w-96 bg-green-900 shadow-xl flex-col">
+                        <div className="px-10 pt-10">
                             <Image
                                 src="/Photos/p1.jpeg"
                                 height={400}
                                 width={400}
                                 alt="Two pugs"
                                 className="rounded-xl" />
-                        </figure>
+                        </div>
                         <div className="card-body items-center text-center">
                             <h2 className="card-title">NFT #1</h2>
                             <p>Double Trouble</p>
@@ -34,7 +34,7 @@ const Collection = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="card w-96 bg-green-900 shadow-xl">
+                    <div className="w-96 bg-green-900 shadow-xl">
                         <figure className="px-10 pt-10">
                             <Image
                                 src="/Photos/p2.jpeg"
@@ -51,7 +51,7 @@ const Collection = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="card w-96 bg-green-900 shadow-xl">
+                    <div className="w-96 bg-green-900 shadow-xl">
                         <figure className="px-10 pt-10">
                             <Image
                                 src="/Photos/p3.jpeg"
@@ -68,7 +68,7 @@ const Collection = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="card w-96 bg-green-900 shadow-xl">
+                    <div className="w-96 bg-green-900 shadow-xl">
                         <figure className="px-10 pt-10">
                             <Image
                                 src="/Photos/p4.jpeg"
